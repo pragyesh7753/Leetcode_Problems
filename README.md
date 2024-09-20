@@ -1,2 +1,2 @@
 # Leetcode_Problems
- All the problems that i solve from leetcode will be pushed here.
+ All the problems that I solve from leetcode will be pushed here.
