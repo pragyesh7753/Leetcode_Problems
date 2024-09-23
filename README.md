@@ -7,6 +7,7 @@
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/pragyesh7753/Leetcode_Problems/tree/master/1635-number-of-good-pairs) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/pragyesh7753/Leetcode_Problems/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -19,4 +20,12 @@
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/pragyesh7753/Leetcode_Problems/tree/master/1635-number-of-good-pairs) |
+## Matrix
+|  |
+| ------- |
+| [2132-convert-1d-array-into-2d-array](https://github.com/pragyesh7753/Leetcode_Problems/tree/master/2132-convert-1d-array-into-2d-array) |
+## Simulation
+|  |
+| ------- |
+| [2132-convert-1d-array-into-2d-array](https://github.com/pragyesh7753/Leetcode_Problems/tree/master/2132-convert-1d-array-into-2d-array) |
 <!---LeetCode Topics End-->
