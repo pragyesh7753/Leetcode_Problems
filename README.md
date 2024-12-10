@@ -14,11 +14,13 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pragyesh7753/Leetcode_Problems/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/pragyesh7753/Leetcode_Problems/tree/master/0013-roman-to-integer) |
 | [1635-number-of-good-pairs](https://github.com/pragyesh7753/Leetcode_Problems/tree/master/1635-number-of-good-pairs) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/pragyesh7753/Leetcode_Problems/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/pragyesh7753/Leetcode_Problems/tree/master/0013-roman-to-integer) |
 | [1635-number-of-good-pairs](https://github.com/pragyesh7753/Leetcode_Problems/tree/master/1635-number-of-good-pairs) |
 ## Counting
 |  |
@@ -36,4 +38,8 @@
 |  |
 | ------- |
 | [0792-binary-search](https://github.com/pragyesh7753/Leetcode_Problems/tree/master/0792-binary-search) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/pragyesh7753/Leetcode_Problems/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
