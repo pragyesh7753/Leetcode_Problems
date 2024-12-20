@@ -9,6 +9,7 @@
 | [0001-two-sum](https://github.com/pragyesh7753/Leetcode_Problems/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pragyesh7753/Leetcode_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/pragyesh7753/Leetcode_Problems/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/pragyesh7753/Leetcode_Problems/tree/master/0035-search-insert-position) |
 | [0792-binary-search](https://github.com/pragyesh7753/Leetcode_Problems/tree/master/0792-binary-search) |
 | [1635-number-of-good-pairs](https://github.com/pragyesh7753/Leetcode_Problems/tree/master/1635-number-of-good-pairs) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/pragyesh7753/Leetcode_Problems/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -39,6 +40,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/pragyesh7753/Leetcode_Problems/tree/master/0035-search-insert-position) |
 | [0792-binary-search](https://github.com/pragyesh7753/Leetcode_Problems/tree/master/0792-binary-search) |
 ## String
 |  |
