@@ -12,6 +12,7 @@
 | [0035-search-insert-position](https://github.com/pragyesh7753/Leetcode_Problems/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/pragyesh7753/Leetcode_Problems/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/pragyesh7753/Leetcode_Problems/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/pragyesh7753/Leetcode_Problems/tree/master/0189-rotate-array) |
 | [0792-binary-search](https://github.com/pragyesh7753/Leetcode_Problems/tree/master/0792-binary-search) |
 | [1635-number-of-good-pairs](https://github.com/pragyesh7753/Leetcode_Problems/tree/master/1635-number-of-good-pairs) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/pragyesh7753/Leetcode_Problems/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -30,6 +31,7 @@
 | [0066-plus-one](https://github.com/pragyesh7753/Leetcode_Problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/pragyesh7753/Leetcode_Problems/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/pragyesh7753/Leetcode_Problems/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/pragyesh7753/Leetcode_Problems/tree/master/0189-rotate-array) |
 | [1635-number-of-good-pairs](https://github.com/pragyesh7753/Leetcode_Problems/tree/master/1635-number-of-good-pairs) |
 ## Counting
 |  |
@@ -73,6 +75,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pragyesh7753/Leetcode_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/pragyesh7753/Leetcode_Problems/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pragyesh7753/Leetcode_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0189-rotate-array](https://github.com/pragyesh7753/Leetcode_Problems/tree/master/0189-rotate-array) |
 ## String Matching
 |  |
 | ------- |
