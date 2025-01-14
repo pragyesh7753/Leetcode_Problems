@@ -8,7 +8,7 @@ class Solution {
         while (i < s.length() && j < t.length()) {
             // Step 3: Check if the characters match
             if (s.charAt(i) == t.charAt(j)) {
-                i++; // ove pointer in s if characters match
+                i++; // Move pointer in s if characters match
             }
             j++; // Always move pointer in t
 
