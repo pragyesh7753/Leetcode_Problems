@@ -10,6 +10,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pragyesh7753/Leetcode_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/pragyesh7753/Leetcode_Problems/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/pragyesh7753/Leetcode_Problems/tree/master/0035-search-insert-position) |
+| [0055-jump-game](https://github.com/pragyesh7753/Leetcode_Problems/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/pragyesh7753/Leetcode_Problems/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pragyesh7753/Leetcode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pragyesh7753/Leetcode_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -93,6 +94,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/pragyesh7753/Leetcode_Problems/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/pragyesh7753/Leetcode_Problems/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pragyesh7753/Leetcode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pragyesh7753/Leetcode_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -112,5 +114,6 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/pragyesh7753/Leetcode_Problems/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pragyesh7753/Leetcode_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
