@@ -17,6 +17,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pragyesh7753/Leetcode_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/pragyesh7753/Leetcode_Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/pragyesh7753/Leetcode_Problems/tree/master/0189-rotate-array) |
+| [0274-h-index](https://github.com/pragyesh7753/Leetcode_Problems/tree/master/0274-h-index) |
 | [0792-binary-search](https://github.com/pragyesh7753/Leetcode_Problems/tree/master/0792-binary-search) |
 | [1635-number-of-good-pairs](https://github.com/pragyesh7753/Leetcode_Problems/tree/master/1635-number-of-good-pairs) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/pragyesh7753/Leetcode_Problems/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -113,10 +114,15 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/pragyesh7753/Leetcode_Problems/tree/master/0169-majority-element) |
+| [0274-h-index](https://github.com/pragyesh7753/Leetcode_Problems/tree/master/0274-h-index) |
 ## Greedy
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/pragyesh7753/Leetcode_Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/pragyesh7753/Leetcode_Problems/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pragyesh7753/Leetcode_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/pragyesh7753/Leetcode_Problems/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
