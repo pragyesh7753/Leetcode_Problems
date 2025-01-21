@@ -18,6 +18,7 @@
 | [0169-majority-element](https://github.com/pragyesh7753/Leetcode_Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/pragyesh7753/Leetcode_Problems/tree/master/0189-rotate-array) |
 | [0274-h-index](https://github.com/pragyesh7753/Leetcode_Problems/tree/master/0274-h-index) |
+| [0380-insert-delete-getrandom-o1](https://github.com/pragyesh7753/Leetcode_Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0792-binary-search](https://github.com/pragyesh7753/Leetcode_Problems/tree/master/0792-binary-search) |
 | [1635-number-of-good-pairs](https://github.com/pragyesh7753/Leetcode_Problems/tree/master/1635-number-of-good-pairs) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/pragyesh7753/Leetcode_Problems/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -27,6 +28,7 @@
 | [0001-two-sum](https://github.com/pragyesh7753/Leetcode_Problems/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/pragyesh7753/Leetcode_Problems/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/pragyesh7753/Leetcode_Problems/tree/master/0169-majority-element) |
+| [0380-insert-delete-getrandom-o1](https://github.com/pragyesh7753/Leetcode_Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [1635-number-of-good-pairs](https://github.com/pragyesh7753/Leetcode_Problems/tree/master/1635-number-of-good-pairs) |
 ## Math
 |  |
@@ -37,6 +39,7 @@
 | [0067-add-binary](https://github.com/pragyesh7753/Leetcode_Problems/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/pragyesh7753/Leetcode_Problems/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/pragyesh7753/Leetcode_Problems/tree/master/0189-rotate-array) |
+| [0380-insert-delete-getrandom-o1](https://github.com/pragyesh7753/Leetcode_Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [1635-number-of-good-pairs](https://github.com/pragyesh7753/Leetcode_Problems/tree/master/1635-number-of-good-pairs) |
 ## Counting
 |  |
@@ -125,4 +128,12 @@
 |  |
 | ------- |
 | [0274-h-index](https://github.com/pragyesh7753/Leetcode_Problems/tree/master/0274-h-index) |
+## Design
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/pragyesh7753/Leetcode_Problems/tree/master/0380-insert-delete-getrandom-o1) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/pragyesh7753/Leetcode_Problems/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
