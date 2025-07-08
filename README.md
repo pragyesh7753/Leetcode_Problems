@@ -143,4 +143,8 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/pragyesh7753/Leetcode_Problems/tree/master/0238-product-of-array-except-self) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/pragyesh7753/Leetcode_Problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
