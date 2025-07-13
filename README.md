@@ -13,6 +13,7 @@
 | [0045-jump-game-ii](https://github.com/pragyesh7753/Leetcode_Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/pragyesh7753/Leetcode_Problems/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/pragyesh7753/Leetcode_Problems/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/pragyesh7753/Leetcode_Problems/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pragyesh7753/Leetcode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pragyesh7753/Leetcode_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/pragyesh7753/Leetcode_Problems/tree/master/0134-gas-station) |
@@ -87,6 +88,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pragyesh7753/Leetcode_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/pragyesh7753/Leetcode_Problems/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pragyesh7753/Leetcode_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/pragyesh7753/Leetcode_Problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/pragyesh7753/Leetcode_Problems/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/pragyesh7753/Leetcode_Problems/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/pragyesh7753/Leetcode_Problems/tree/master/0392-is-subsequence) |
@@ -118,6 +120,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/pragyesh7753/Leetcode_Problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/pragyesh7753/Leetcode_Problems/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/pragyesh7753/Leetcode_Problems/tree/master/0274-h-index) |
 ## Greedy
